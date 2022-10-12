@@ -5,3 +5,6 @@ This is a Next.js web application that uses OAuth2 to grab the Twitter profile i
 `npm install` or `yarn install`
 Then once all node modules are installed `npm run dev` or `yarn dev`
 For production build run `npm run build && npm run start` or `yarn build && yarn start`
+
+## Demo video
+![demo video](https://media.giphy.com/media/2adeeMvo7z0MH57LJ2/giphy.gif)
