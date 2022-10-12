@@ -7,4 +7,4 @@ Then once all node modules are installed `npm run dev` or `yarn dev`
 For production build run `npm run build && npm run start` or `yarn build && yarn start`
 
 ## Demo video
-![demo video](https://media.giphy.com/media/2adeeMvo7z0MH57LJ2/giphy.gif)
+![demo video](https://media.giphy.com/media/TLDHgGaZR4o83Kw2ev/giphy.gif)
