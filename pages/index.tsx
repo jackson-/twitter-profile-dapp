@@ -30,7 +30,7 @@ const Home: NextPage = () => {
       
       signInWithPopup(auth, provider)
       .then((re) => {
-        const updatedUser = {name: re.user.displayName, image: re.user.photoURL, prevState: currentUser}
+        const updatedUser = {name: re.user.reloadUserInfo.screenName, image: re.user.photoURL, prevState: currentUser}
         setCurrentUser(updatedUser);
       }).catch((err) => {
         console.log("ERR ", err);
